@@ -1,0 +1,14 @@
+layout_spectrum: 0.32932516327127814
+typography_spectrum: 0.7802624360192567
+color:
+  brandStrength: 0.14556849817745388
+  lightness: 0.545874634059146
+  saturation: 0.03864388330839574
+  rhythmicContrast: 0.7438135840930045
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: LightData
